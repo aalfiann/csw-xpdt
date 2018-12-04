@@ -1,11 +1,12 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
-  "version": "com.phonegap.helloworld",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "name": "CSW XPediter",
+  "short_name": "CSW XPediter",
+  "version": "com.csw-xpdt.app",
+  "description": "CSW XPediter - Jembatan Pasti Menuju Baitullah.",
   "author": "PhoneGap Team",
   "icons": [],
-  "start_url": "index.html"
+  "start_url": "index.html",
+  "theme_color": "#ffffff"
 }
